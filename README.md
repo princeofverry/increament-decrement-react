@@ -22,5 +22,5 @@ Install my-project with npm
     
 ## Authors
 
-- [@octokatherine](https://www.github.com/princeofverry)
+- [@princeofverry](https://www.github.com/princeofverry)
 
